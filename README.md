@@ -3,6 +3,11 @@
 A simple blog application built using **Vite**, **React**, **Redux Toolkit**, and **Bootstrap 5**. The app includes user authentication, CRUD operations for blog posts, comment functionality, sorting, filtering, and protected routes.
 
 ---
+# Install dependencies:
+npm install
+# Start the server:
+npm run dev
+http://localhost:5173/
 
 ## Features
 
