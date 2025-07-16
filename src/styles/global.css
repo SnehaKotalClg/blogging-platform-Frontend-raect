@@ -1,0 +1,54 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f8f9fa;
+  margin: 0;
+  padding: 0;
+}
+
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+
+h1, h2, h3, h4, h5 {
+  color: #212529;
+  font-weight: 600;
+}
+
+button {
+  transition: all 0.2s ease-in-out;
+}
+
+button:hover {
+  opacity: 0.9;
+}
+
+input, textarea {
+  box-shadow: none !important;
+  border-radius: 4px;
+}
+
+
+.navbar {
+  background-color: #343a40 !important;
+}
+
+.navbar .navbar-brand,
+.navbar .nav-link {
+  color: #ffffff !important;
+}
+
+.navbar .nav-link:hover {
+  color: #f8d90f !important;
+}
+
+
+.post-card {
+  background: #fff;
+  border-radius: 6px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.05);
+}
